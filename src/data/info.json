@@ -1,0 +1,51 @@
+{
+  "personal-info": {
+    "nombre": "Andrés Reyes",
+    "email": "an.reyesf@gmail.com",
+    "ubicacion": {
+      "calle": "El Estribo",
+      "comuna": "Mellipilla",
+      "ciudad": "Melipilla",
+      "region": "Región Metropolitana",
+      "pais": "CL"
+    },
+    "social": {
+      "url_linkedin": "",
+      "url_instagram": "",
+      "url_facebook": ""
+    },
+    "presentacion": "Profesional del área de TI recién titulado con muchas ganas de aprender y desarrollar habilidades, especialmente en el área de Front-End. Soy un persona seria y responsable con ganas de trabajar, con habilidades ofimáticas y de relaciones interpersonales. Me considero una persona con pensamiento analítico en pos de la búsqueda soluciones, tengo experiencia en la rama de trabajos administrativos, pero estoy en búsqueda de un trabajo donde puede desarrollar mi carrera profesional."
+  },
+  "experiencia": [
+    {
+      "cargo": "Digitador",
+      "nombre_empresa": "MaxHuber S.A",
+      "anno_inicio": "2015",
+      "anno_termino": "2015",
+      "descripcion": "Encargado de la consolidación y validación de datos de diversos proyectos con los cuales trabajaba el área. Entregar, en forma consistente y clara, los datos de los colaboradores que trabajaban en dichos proyectos para posterior pago. Coordinar y supervisar el correcto desarrollo de las labores asignadas al personal encargado."
+    },
+    {
+      "cargo": "Supervisor",
+      "nombre_empresa": "Ópticas Altavisión",
+      "anno_inicio": "2016",
+      "anno_termino": "2018",
+      "descripcion": "Encargado del control de los procesos administrativos de la empresa. Creando los procesos de ingreso de datos a un sistema creado e implementado por mí, para la consolidación de datos y la generación de reportes, según requerimientos y especificaciones del área gerencial."
+    },
+    {
+        "cargo": "Administrativo Junior",
+        "nombre_empresa": "Handel Spa",
+        "anno_inicio": "2018",
+        "anno_termino": "2019",
+        "descripcion": "Encargado de la búsqueda y actualización de datos de PEP (persona políticamente expuesta), según planificación de coordinador. Realización de consultas en Base de datos a través de sintaxis SQL."
+      }
+  ],
+  "educacion": [
+    {
+      "titulo": "Analista Programador",
+      "nombre_institucion": "Duoc UC",
+      "anno_inicio": "2017",
+      "anno_termino": "2019",
+      "descripcion": "xxxxxxxxx"
+    }
+  ]
+}
