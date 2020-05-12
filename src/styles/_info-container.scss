@@ -1,0 +1,26 @@
+.info-container{
+    // border: 1px solid rgba($gray, 0.5);
+    // box-shadow: 2px 2px 10px rgba($black, 0.5);
+    // padding: 1rem;
+    width: 100%;
+    color: $gray;
+    .info-title{
+        display: flex;
+        align-items: center;
+        h2{
+            font-size: 2rem;
+            margin-right: 1rem;
+        }
+        span{
+            font-size: 0.7rem;
+            color: $gray;
+        }
+    }
+   .dates{
+       font-size: 0.7rem;
+   }
+    p{
+        margin: .5rem 0;
+        line-height: 1.5rem;
+    }
+}

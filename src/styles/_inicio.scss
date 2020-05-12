@@ -1,0 +1,12 @@
+.inicio {
+  @include centerContent();
+  flex-direction: column;
+  color: $gray;
+  p {
+    font-size: 1rem;
+    font-weight: 200;
+    text-align: justify;
+    line-height: 2rem;
+    margin-bottom: 2rem;
+  }
+}

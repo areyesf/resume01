@@ -1,0 +1,14 @@
+// COLOR PALETTE
+$cian: #60b8b8;
+$white: #fff;
+$gray: #6b6b6b;
+$black: #000;
+$dark-blue: #224A60;
+//break point to responsive design
+$break-point: 950px;
+//mixins
+@mixin centerContent {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

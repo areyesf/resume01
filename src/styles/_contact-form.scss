@@ -1,0 +1,32 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    input, textarea{
+        border: none;
+        border-bottom: 1px solid rgba($gray, 0.7);
+        padding: 1rem;
+        color: $black;
+        transition: all ease-out 0.5s;
+        &:hover{
+            box-shadow: inset 0 -1px 1px $gray;
+        }
+    }
+    button{
+        border: none;
+        padding: 1rem;
+        text-align: center;
+        background-color: $cian;
+        color: $white;
+        margin: 1rem 0;
+        font-size: 1rem;
+        font-weight: bold;
+        cursor: pointer;
+        transition: all ease-out 0.3s;
+        &:hover{
+            background-color: $gray;
+            // color: $cian;
+        }
+    }
+    
+}
